@@ -7,7 +7,10 @@
 
 <br>
 
-### If you'd like to use **Tensorflow**, no worries, I made a new **Tensorflow Tutorial** just like PyTorch. Here is the link: [https://github.com/MorvanZhou/Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)
+### 对莫烦大佬的pytorch教程的源码进行修改、补充以及注释。
+### 这个教程使用的版本有些滞后（虽然他已经维护过了），一方面加了大量的注释方面以后回看（相当于强制要求自己看懂每一行），另一方面在修改一写bug（warning），看见pycharm上面的绿色小勾勾心情就更好了。
+### 当然莫烦的教程我认为对一个纯pytorch新手来说是有些挑战的，建议可以先看一下deeplizard大佬的pytorch教程先，deeplizard大佬的教程比较基础，科普了大部分机器学习框架都有的特点，让我们更好的上手各种框架，和莫烦相比，他的侧重点不同，两者的教程重叠的地方不多，甚至感觉莫烦大佬很好的衔接里deeplizard的内容。
+### 不管怎么说，非常感谢莫烦提供的教程！
 
 # pyTorch Tutorials
 
